@@ -109,7 +109,6 @@ I am a dedicated **MERN Stack Developer** with a passion for building robust web
 
 <div align="center">
   <h3>📊 GitHub Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhirrathod03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirrathod03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirrathod03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -130,4 +129,5 @@ I am a dedicated **MERN Stack Developer** with a passion for building robust web
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=sudhirrathod03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
