@@ -21,15 +21,17 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Actively seeking Full Stack Developer / SDE roles**
-- 🎓 Computer Engineering Graduate with strong foundation in **Data Structures & Algorithms**
-- 🏆 **400+ DSA problems** solved on LeetCode | Consistent problem-solver
-- 🚀 Built **2 production-ready full-stack applications** with live deployment
-- 💡 Expertise in building **scalable REST APIs**, **secure authentication**, and **responsive UIs**
-- 🌱 Currently expanding skills in **Next.js**, **TypeScript**, and **System Design**
-- ⚡ Fast learner with ability to quickly adapt to new technologies and frameworks
-- 📍 Based in **Maharashtra, India** | Open to relocation
-- 📫 **Email:** rathodsudhir326@gmail.com | **Available for immediate joining**
+💼 **Actively seeking Full Stack Developer / SDE roles**
+
+🎓 Computer Engineering Graduate specializing in MERN Stack Development
+
+🏆 **400+ DSA problems** solved on LeetCode
+
+🚀 Built **production-ready full-stack applications** with live deployment
+
+📍 Based in **Maharashtra, India** | Open to relocation
+
+📫 **rathodsudhir326@gmail.com** | Available for immediate joining
 
 ---
 
@@ -38,81 +40,72 @@
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-**HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS**
+**HTML • CSS • JavaScript • React • Bootstrap**
 
 ### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Node.js • Express.js • MongoDB • REST APIs • Postman**
+**Node.js • Express.js • MongoDB**
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,java" />
 
-**JavaScript • Java • C • C++**
+**JavaScript • Java**
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-**Git • GitHub • VS Code • Vercel • Render • npm**
-
-### Core Competencies
-**RESTful APIs • JWT Authentication • MVC Architecture • Responsive Design**  
-**Database Design • Cloud Deployment • API Integration • Agile Development**
+**Git • GitHub • VS Code • Postman**
 
 </div>
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🔹 [FinoSphere](https://frontend-iota-livid.vercel.app/)
-**Full Stack Stock Trading Platform**
+### 🔹 FinoSphere - Stock Trading Platform
 
-A production-ready stock trading application with real-time portfolio management and secure transactions.
+<a href="https://frontend-iota-livid.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-success?style=for-the-badge" alt="Live Demo" />
+</a>
 
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Chart.js
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Chart.js`
 
-**Key Achievements:**
-- 🔐 Implemented **JWT-based authentication** with bcrypt encryption for secure user sessions
-- 📊 Built **15+ RESTful APIs** for order management, portfolio tracking, and financial data
-- 📈 Integrated **Chart.js** for dynamic price visualizations, improving data clarity by **30%**
-- 🌐 Deployed frontend on **Vercel** and backend on **Render** with proper CORS and security configs
-- ⚡ Optimized API response time through efficient database queries and indexing
+A full-stack stock trading application with real-time portfolio management
 
-**Impact:** Enables users to execute real-time stock orders and track complete portfolio holdings
+**Key Features:**
+- 🔐 Secure JWT authentication with bcrypt encryption
+- 📊 15+ RESTful APIs for order management and portfolio tracking
+- 📈 Chart.js integration for dynamic price visualizations
+- 🌐 Deployed on Vercel (Frontend) & Render (Backend)
 
-**[View Live Demo →](https://frontend-iota-livid.vercel.app/)**
+**Impact:** Improved data clarity by 30% through interactive visualizations
 
-</td>
-<td width="50%">
+---
 
-### 🔹 [NestAway](https://nest-away-delta.vercel.app/listings)
-**Property Rental Marketplace**
+### 🔹 NestAway - Property Rental Marketplace
 
-A scalable rental platform connecting property owners with travelers, featuring advanced search and geolocation.
+<a href="https://nest-away-delta.vercel.app/listings" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-success?style=for-the-badge" alt="Live Demo" />
+</a>
 
-**Tech Stack:** Node.js • Express • MongoDB • Mapbox API • MVC Architecture
+**Tech Stack:** `Node.js` `Express` `MongoDB` `Mapbox API` `MVC Architecture`
 
-**Key Achievements:**
-- 🏗️ Architected using **MVC design pattern** for maintainable and scalable codebase
-- 🗺️ Integrated **Mapbox API** for interactive property maps, covering **95%+** of listings
-- 🌤️ Built **Nature Snapshot** feature aggregating real-time data from **OpenWeatherMap + Unsplash APIs**
-- 🔍 Developed **10+ RESTful APIs** with optimized queries, enhancing search efficiency by **25%**
-- 🎨 Created responsive UI with **EJS templating** for seamless cross-device experience
+A scalable rental platform connecting property owners with travelers
 
-**Impact:** Simplified property discovery with location-based insights and intuitive navigation
+**Key Features:**
+- 🏗️ Built with MVC design pattern for maintainable codebase
+- 🗺️ Mapbox API integration for interactive property maps (95%+ listings)
+- 🌤️ Nature Snapshot feature with OpenWeatherMap & Unsplash APIs
+- 🔍 10+ optimized RESTful APIs enhancing search efficiency by 25%
 
-**[View Live Demo →](https://nest-away-delta.vercel.app/listings)**
+**Impact:** Simplified property discovery with location-based insights
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
