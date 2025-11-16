@@ -21,24 +21,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const sudhir = {
-    role: "Full Stack Developer",
-    location: "Maharashtra, India",
-    education: "Computer Engineering Graduate",
-    specialization: "MERN Stack Development",
-    experience: {
-        projects: "Production-ready applications",
-        codebase: "10,000+ lines of production code",
-        api_development: "30+ RESTful APIs",
-        deployment: "Cloud platforms (Vercel, Render)"
-    },
-    seeking: "Full-time SDE roles",
-    availability: "Immediate",
-    strengths: ["Problem Solving", "Clean Architecture", "Scalable Systems"]
-};
-```
-
 - 💼 **Actively seeking Full Stack Developer / SDE roles**
 - 🎓 Computer Engineering Graduate with strong foundation in **Data Structures & Algorithms**
 - 🏆 **400+ DSA problems** solved on LeetCode | Consistent problem-solver
@@ -46,49 +28,40 @@ const sudhir = {
 - 💡 Expertise in building **scalable REST APIs**, **secure authentication**, and **responsive UIs**
 - 🌱 Currently expanding skills in **Next.js**, **TypeScript**, and **System Design**
 - ⚡ Fast learner with ability to quickly adapt to new technologies and frameworks
+- 📍 Based in **Maharashtra, India** | Open to relocation
 - 📫 **Email:** rathodsudhir326@gmail.com | **Available for immediate joining**
 
 ---
 
 ## 🛠️ Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>Frontend Development</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-      <br>HTML • CSS • JavaScript • React • Bootstrap • Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><b>Backend Development</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
-      <br>Node.js • Express.js • MongoDB • REST APIs • Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><b>Programming Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
-      <br>JavaScript • Java • C • C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><b>Tools & Technologies</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
-      <br>Git • GitHub • VS Code • Vercel • Render • npm
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><b>Core Competencies</b></td>
-    <td>
-      RESTful APIs • JWT Authentication • MVC Architecture • Responsive Design<br>
-      Database Design • Cloud Deployment • API Integration • Agile Development
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+
+**HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS**
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+
+**Node.js • Express.js • MongoDB • REST APIs • Postman**
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,java,c,cpp" />
+
+**JavaScript • Java • C • C++**
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+**Git • GitHub • VS Code • Vercel • Render • npm**
+
+### Core Competencies
+**RESTful APIs • JWT Authentication • MVC Architecture • Responsive Design**  
+**Database Design • Cloud Deployment • API Integration • Agile Development**
+
+</div>
 
 ---
 
@@ -153,45 +126,6 @@ A scalable rental platform connecting property owners with travelers, featuring 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirrathod03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 💼 Why Hire Me?
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Problem Solver
-**400+ DSA problems**
-solved on LeetCode
-
-Strong foundation in
-algorithms and optimization
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 Production Ready
-**2 live applications**
-deployed and maintained
-
-Experience with full
-development lifecycle
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ Fast Learner
-Quickly adapts to new
-technologies and tools
-
-Self-motivated with
-continuous learning mindset
-
-</td>
-</tr>
-</table>
 
 ---
 
