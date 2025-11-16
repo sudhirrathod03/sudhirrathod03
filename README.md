@@ -1,21 +1,136 @@
 <h1 align="center">Hi 👋, I'm Sudhir Rathod</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Building Scalable Web Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhirrathod03&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirrathod03" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 📫 How to reach me **rathodsudhir326@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M76kCuEsEMAYNxUJUUu49487-t-vQbfi/view?usp=sharing](https://drive.google.com/file/d/1M76kCuEsEMAYNxUJUUu49487-t-vQbfi/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudhir-rathod-8b3715250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudhir-rathod-8b3715250/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sudhir_rathod_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sudhir_rathod_05/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudhirrathod03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/sudhir-rathod-8b3715250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/sudhir_rathod_05/"><img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode" alt="LeetCode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <em>Passionate about crafting robust, user-centric applications with clean code and modern technologies</em>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhirrathod03&show_icons=true&locale=en&layout=compact" alt="sudhirrathod03" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Computer Science Student** with a focus on full-stack development
+- 🌱 Currently mastering **Next.js** and exploring **TypeScript**
+- 💼 Open to **internships** and **collaboration opportunities**
+- 🚀 Built 6+ production-ready projects including trading platforms, rental marketplaces.
+- 🎯 Solved **400+ DSA problems** on LeetCode
+- 📍 Based in **Maharashtra, India**
+- 💡 Love building projects that solve real-world problems
+- 📫 **Email:** rathodsudhir326@gmail.com
+- 📄 **[View My Resume](https://drive.google.com/file/d/1M76kCuEsEMAYNxUJUUu49487-t-vQbfi/view?usp=sharing)**
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Others</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,postman,java,vscode" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [FinoSphere](https://frontend-iota-livid.vercel.app/) – Stock Trading Platform  
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Chart.js  
+**Timeline:** July 2025 – Sept 2025  
+**[Live Demo](https://frontend-iota-livid.vercel.app/)** | **[GitHub Repo](#)**
+
+A feature-rich stock trading platform that brings Wall Street to your browser.
+
+**Key Features:**
+- 🔐 Secure authentication with **JWT + bcrypt** protecting all API endpoints
+- 📊 Interactive data visualization using **Chart.js** for price trends and portfolio analytics
+- ⚡ **15+ RESTful APIs** for seamless data flow and operations
+- 🌐 Full deployment: Frontend on **Vercel**, Backend on **Render**
+
+**Impact:** Improved data interpretability by **30%** through dynamic visualizations
+
+---
+
+### 🔹 [NestAway](https://nest-away-delta.vercel.app/listings) – Property Rental Marketplace  
+**Tech Stack:** Node.js • Express • MongoDB • Mapbox API • MVC Architecture  
+**Timeline:** Jan 2025 – Mar 2025  
+**[Live Demo](https://nest-away-delta.vercel.app/listings)** | **[GitHub Repo](#)**
+
+A modern Airbnb-inspired platform connecting property owners with travelers.
+
+**Key Features:**
+- 🏠 Complete CRUD operations for property listings
+- 🗺️ **Mapbox integration** displaying interactive maps for **95%+** of listings
+- 🌤️ **Nature Snapshot** feature aggregating live data from **OpenWeatherMap + Unsplash**
+- 🔍 Advanced search with filters and geolocation
+- 🏗️ Built with **MVC architecture** for maintainable codebase
+
+**Impact:** Enhanced search efficiency by **25%** with optimized RESTful APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhirrathod03&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhirrathod03&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirrathod03&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+## 💼 Let's Connect!
+
+I'm always interested in collaborating on innovative projects or discussing new opportunities!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sudhir-rathod-8b3715250/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-208-916919.png" alt="LinkedIn" width="45" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/sudhir_rathod_05/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rathodsudhir326@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ If you find my work interesting, consider starring my repositories!</i><br>
+  <i>💬 Open to internships, freelance projects, and collaborations</i><br>
+  <i>☕ Let's build something amazing together!</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+</p>
