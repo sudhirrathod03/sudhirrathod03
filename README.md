@@ -30,7 +30,7 @@
 
 ### 👨‍💻 About Me
 
-I am a dedicated **MERN Stack Developer** with a passion for building robust web applications. My expertise lies in the Javascript ecosystem, specifically leveraging **MongoDB, Express.js, React, and Node.js** to create scalable, production-ready solutions.
+As a Computer Engineering Graduate and MERN Stack Developer, I leverage **React, Node.js, Express, and MongoDB** to build efficient, scalable applications.
 
 - 💼 **Focus:** Actively seeking **MERN Stack Developer** roles.
 - 🚀 **Experience:** Specialized in building RESTful APIs and dynamic frontends.
