@@ -1,9 +1,10 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sudhir%20Rathod&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descSize=20" alt="Sudhir Rathod Header" />
+  
+  <h1>Hi 👋, I'm Sudhir Rathod</h1>
+  <h3>MERN Stack Developer</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;MERN+Stack+Specialist;400%2B+LeetCode+Solved;Open+to+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Apps;400%2B+LeetCode+Solved" alt="Typing SVG" />
   </a>
 
   <p>
@@ -23,51 +24,49 @@
       <img src="https://img.shields.io/badge/Resume-View%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
   </p>
-  <br>
 </div>
+
+<br>
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering Graduate (2025)** and a passionate **Full Stack Developer** specializing in the **MERN Stack**. I have a strong foundation in Data Structures & Algorithms and love building scalable, production-ready web applications.
+I am a dedicated **MERN Stack Developer** with a passion for building robust web applications. My expertise lies in the Javascript ecosystem, specifically leveraging **MongoDB, Express.js, React, and Node.js** to create scalable, production-ready solutions.
 
-- 💼 **Current Status:** Actively seeking **Full Stack Developer / SDE** roles.
-- 🚀 **Experience:** Built multiple production-ready applications with live deployments.
-- 🏆 **Competitive Coding:** Solved **400+ Problems** on LeetCode.
+- 💼 **Focus:** Actively seeking **MERN Stack Developer** roles.
+- 🚀 **Experience:** Specialized in building RESTful APIs and dynamic frontends.
+- 🏆 **Problem Solving:** Solved **400+ Problems** on LeetCode (DSA in Java).
 - 📍 **Location:** Maharashtra, India (Open to Relocation).
-- 🤝 **Availability:** Available for **Immediate Joining**.
 
 ---
 
 <div align="center">
-  <h3>🛠️ Technical Skills</h3>
+  <h3>🛠️ Tech Stack</h3>
 
-  | **Category** | **Technologies** |
-  | :---: | :--- |
-  | **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" /> |
-  | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" /> |
-  | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /> |
+  | **Core Stack** | **Tools & Deployment** |
+  | :---: | :---: |
+  | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" /> |
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured MERN Projects
 
 #### 🔹 [FinoSphere - Stock Trading Platform](https://frontend-iota-livid.vercel.app/)
-> *A full-stack stock trading application with real-time portfolio management.*
+> *A full-stack MERN application for real-time portfolio management.*
 
 <table width="100%"> 
 <tr>
 <td width="50%">
   
-**Tech Stack:**
+**Stack:**
 <br> 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 
-**Key Features:**
-- 🔐 Secure **JWT authentication** with bcrypt encryption.
-- 📊 **15+ RESTful APIs** for order management.
-- 📈 Dynamic price visualizations using **Chart.js**.
-- 🌐 Deployed on **Vercel** (Frontend) & **Render** (Backend).
+**Highlights:**
+- 🔐 **Authentication:** Secure JWT login with bcrypt encryption.
+- 📊 **Backend:** 15+ RESTful APIs managing orders and user data.
+- 📈 **Frontend:** Real-time visualization using Chart.js.
+- 🌐 **Deployment:** Hosted on Vercel (Client) and Render (Server).
 
 </td>
 <td width="50%" align="center">
@@ -75,28 +74,26 @@ I am a **Computer Engineering Graduate (2025)** and a passionate **Full Stack De
 <a href="https://frontend-iota-livid.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-success?style=for-the-badge" alt="Live Demo" />
 </a>
-<br><br>
-<i>Impact: Improved data clarity by 30% through interactive visualizations.</i>
 </td>
 </tr>
 </table>
 
-#### 🔹 [NestAway - Property Rental Marketplace](https://nest-away-delta.vercel.app/listings)
-> *A scalable rental platform connecting property owners with travelers.*
+#### 🔹 [NestAway - Property Rental Platform](https://nest-away-delta.vercel.app/listings)
+> *A MERN-based marketplace connecting property owners with travelers.*
 
 <table width="100%"> 
 <tr>
 <td width="50%">
   
-**Tech Stack:**
+**Stack:**
 <br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat"/> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/> <img src="https://img.shields.io/badge/MVC-Architecture-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"/>
 
-**Key Features:**
-- 🏗️ Built with **MVC design pattern** for maintainability.
-- 🗺️ **Mapbox API** integration for interactive maps.
-- 🌤️ Nature Snapshot feature via **OpenWeatherMap API**.
-- 🔍 Optimized search algorithms enhancing efficiency by **25%**.
+**Highlights:**
+- 🏗️ **Architecture:** Implements MVC pattern for clean backend logic.
+- 🗺️ **Integration:** Mapbox API for location-based property search.
+- 🔍 **Performance:** Optimized database queries for fast listing retrieval.
+- 🌤️ **Features:** Dynamic pricing and weather integration.
 
 </td>
 <td width="50%" align="center">
@@ -104,8 +101,6 @@ I am a **Computer Engineering Graduate (2025)** and a passionate **Full Stack De
 <a href="https://nest-away-delta.vercel.app/listings" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-success?style=for-the-badge" alt="Live Demo" />
 </a>
-<br><br>
-<i>Impact: Simplified property discovery with location-based insights.</i>
 </td>
 </tr>
 </table>
@@ -124,13 +119,13 @@ I am a **Computer Engineering Graduate (2025)** and a passionate **Full Stack De
 
 <div align="center">
   <br>
-  <h3>🎯 Open To Opportunities</h3>
+  <h3>🎯 Career Objective</h3>
   
-  ✅ Full-time SDE Roles &nbsp;|&nbsp; ✅ MERN Stack Positions &nbsp;|&nbsp; ✅ Remote & Relocation
+  ✅ MERN Stack Developer Roles &nbsp;|&nbsp; ✅ React.js Developer &nbsp;|&nbsp; ✅ Node.js Backend Developer
   
   <br><br>
   
-  <p><i>Ready to contribute to your team's success with clean code and scalable solutions.</i></p>
+  <p><i>Eager to apply my MERN stack expertise to build scalable products.</i></p>
   <p><i>📧 <a href="mailto:rathodsudhir326@gmail.com">rathodsudhir326@gmail.com</a></i></p>
 
   <br>
