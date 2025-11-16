@@ -33,7 +33,6 @@
 As a Computer Engineering Graduate and MERN Stack Developer, I leverage **React, Node.js, Express, and MongoDB** to build efficient, scalable applications.
 
 - 💼 **Focus:** Actively seeking **MERN Stack Developer** roles.
-- 🚀 **Experience:** Specialized in building RESTful APIs and dynamic frontends.
 - 🏆 **Problem Solving:** Solved **400+ Problems** on LeetCode (DSA in Java).
 - 📍 **Location:** Maharashtra, India (Open to Relocation).
 
