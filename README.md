@@ -15,10 +15,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Science Student** with a focus on full-stack development
+- 🎓 **Computer Engineering Student** with a focus on full-stack development
 - 🌱 Currently mastering **Next.js** and exploring **TypeScript**
 - 💼 Open to **internships** and **collaboration opportunities**
-- 🚀 Built 6+ production-ready projects including trading platforms, rental marketplaces.
 - 🎯 Solved **400+ DSA problems** on LeetCode
 - 📍 Based in **Maharashtra, India**
 - 💡 Love building projects that solve real-world problems
@@ -57,7 +56,7 @@
 ### 🔹 [FinoSphere](https://frontend-iota-livid.vercel.app/) – Stock Trading Platform  
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT • Chart.js  
 **Timeline:** July 2025 – Sept 2025  
-**[Live Demo](https://frontend-iota-livid.vercel.app/)** | **[GitHub Repo](#)**
+**[Live Demo](https://frontend-iota-livid.vercel.app/)** 
 
 A feature-rich stock trading platform that brings Wall Street to your browser.
 
@@ -74,7 +73,7 @@ A feature-rich stock trading platform that brings Wall Street to your browser.
 ### 🔹 [NestAway](https://nest-away-delta.vercel.app/listings) – Property Rental Marketplace  
 **Tech Stack:** Node.js • Express • MongoDB • Mapbox API • MVC Architecture  
 **Timeline:** Jan 2025 – Mar 2025  
-**[Live Demo](https://nest-away-delta.vercel.app/listings)** | **[GitHub Repo](#)**
+**[Live Demo](https://nest-away-delta.vercel.app/listings)**
 
 A modern Airbnb-inspired platform connecting property owners with travelers.
 
@@ -131,6 +130,3 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
-</p>
