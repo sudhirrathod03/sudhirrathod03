@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <h1>Hi 👋, I'm Sudhir Rathod</h1>
   <h3>MERN Stack Developer</h3>
 
