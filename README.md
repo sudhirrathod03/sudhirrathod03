@@ -1,8 +1,6 @@
 <div align="center">
-
   <h1>Hi 👋, I'm Sudhir Rathod</h1>
   <h3>MERN Stack Developer</h3>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Apps;400%2B+LeetCode+Solved" alt="Typing SVG" />
   </a>
