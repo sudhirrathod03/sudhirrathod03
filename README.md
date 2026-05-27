@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://drive.google.com/file/d/1M76kCuEsEMAYNxUJUUu49487-t-vQbfi/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1UoXp_gZs3xWYkioM6KhjzEjXwEQ-SLeW/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume-View%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
   </p>
