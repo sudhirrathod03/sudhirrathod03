@@ -48,7 +48,7 @@ As a Computer Engineering Graduate and MERN Stack Developer, I leverage **React,
 
 ### 🚀 Featured MERN Projects
 
-#### 🔹 [FinoSphere - Stock Trading Platform](https://frontend-iota-livid.vercel.app/)
+#### 🔹 [FinoSphere - Stock Trading Platform](https://fino-sphere.vercel.app/)
 > *A full-stack MERN application for real-time portfolio management.*
 
 <table width="100%"> 
