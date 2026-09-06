@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Hi 👋, I'm Sudhir Rathod</h1>
-  <h3>MERN Stack Developer</h3>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Apps;400%2B+LeetCode+Solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Apps;500%2B+LeetCode+Solved" alt="Typing SVG" />
   </a>
+
+  <br><br>
 
   <p>
     <a href="https://www.linkedin.com/in/sudhir-rathod-8b3715250/">
@@ -11,7 +13,7 @@
     </a>
     &nbsp;
     <a href="https://leetcode.com/u/sudhir_rathod_05/">
-      <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:rathodsudhir326@gmail.com">
@@ -46,12 +48,13 @@ As a Computer Engineering Graduate and MERN Stack Developer, I leverage **React,
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirrathod03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirrathod03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### 🚀 Featured Project: Domora
+
+A scalable MERN stack application featuring AI-powered review summarization, secure cross-origin JWT authentication, and optimized frontend performance via React lazy loading.
+
+- **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`
+- 🔗 **Links:** [Live Demo](#) &nbsp;|&nbsp; [GitHub Repository](#) 
+*(Remember to replace the `#` with your actual links)*
 
 ---
 
