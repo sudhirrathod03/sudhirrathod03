@@ -53,7 +53,7 @@ As a Computer Engineering Graduate and MERN Stack Developer, I leverage **React,
 A scalable MERN stack application featuring AI-powered review summarization, secure cross-origin JWT authentication, and optimized frontend performance via React lazy loading.
 
 - **Tech Stack:** `React`, `Node.js`, `Express`, `MongoDB`
-- 🔗 **Links:** [Live Demo](#) &nbsp;|&nbsp; [GitHub Repository](#) 
+- 🔗 **Links:** [Live Demo](https://domora-black.vercel.app/) &nbsp;
 *(Remember to replace the `#` with your actual links)*
 
 ---
