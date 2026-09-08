@@ -28,7 +28,7 @@
 
 <br>
 
-### 👨‍💻 About Me
+###  About Me
 
 As a Computer Engineering Graduate and MERN Stack Developer, I leverage **React, Node.js, Express, and MongoDB** to build efficient, scalable applications.
 
