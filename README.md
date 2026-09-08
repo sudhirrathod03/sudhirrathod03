@@ -62,7 +62,7 @@ A scalable MERN stack application featuring AI-powered review summarization, sec
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhirrathod03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2" alt="languages graph" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirrathod03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=sudhirrathod03&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&v=2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
